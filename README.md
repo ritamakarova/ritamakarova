@@ -79,8 +79,8 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate-travel_guide.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/ritamakarova/ritamakarova/refs/heads/main/certificate-travel_guide.png)
-[<img src="/certificate-auto_ae_diler.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/ritamakarova/ritamakarova/refs/heads/main/certificat-auto_ae_diler.png)
+[<img src="/certificat-travel_guide.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/ritamakarova/ritamakarova/refs/heads/main/certificate-travel_guide.png)
+[<img src="/certificat-auto_ae_diler.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/ritamakarova/ritamakarova/blob/main/certificat-auto_ae_diler.png)
 
 
 <br>
